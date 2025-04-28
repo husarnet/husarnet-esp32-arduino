@@ -15,7 +15,9 @@ duplicated few times in different folders.
 
 ## Installation and usage
 
-Coming soon...
+This library is available through the [Arduino Library Manager](https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a-library/).
+
+The quick-start guide and FAQ is provided in the [Husarnet ESP32 documentation](https://husarnet.com/docs/esp32-arduino/) to help you get started.
 
 ## Examples
 
